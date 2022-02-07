@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shakeeb Ahmad.</h1>
-<h3 align="center">An enthusiast programmer with a constant thirst for knowledge.</h3>
+<h3 align="center">An enthusiastic programmer with a constant thirst for knowledge.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakesvision&label=Profile%20views&color=0e75b6&style=flat" alt="shakesvision" /> </p>
 
